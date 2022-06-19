@@ -1,4 +1,4 @@
-import { useCallback, useMemo, useState, useEffect, memo } from 'react'
+import { useMemo, useState, useEffect, memo } from 'react'
 import { useDropzone } from 'react-dropzone'
 
 const baseStyle = {
